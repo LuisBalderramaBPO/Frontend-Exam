@@ -1,0 +1,122 @@
+[
+  {
+    "user_id": "5da5ef6fb5eae16652980cb3",
+    "first_name": "Nanette",
+    "last_name": "Osborn",
+    "email": "nanetteosborn@medicroix.com",
+    "phone": "+1 (996) 434-2881",
+    "created_at": "2018-09-13"
+  },
+  {
+    "user_id": "5da5ef6f91de0062e00ad679",
+    "first_name": "Bessie",
+    "last_name": "Aguirre",
+    "email": "bessieaguirre@medicroix.com",
+    "phone": "+1 (920) 406-3001",
+    "created_at": "2016-09-20"
+  },
+  {
+    "user_id": "5da5ef6f8b44a5cbde3745e1",
+    "first_name": "Katrina",
+    "last_name": "Knight",
+    "email": "katrinaknight@medicroix.com",
+    "phone": "+1 (895) 538-2310",
+    "created_at": "2018-08-16"
+  },
+  {
+    "user_id": "5da5ef6f7c785dd0e1efcad9",
+    "first_name": "Delaney",
+    "last_name": "Long",
+    "email": "delaneylong@medicroix.com",
+    "phone": "+1 (870) 448-3549",
+    "created_at": "2016-01-8"
+  },
+  {
+    "user_id": "5da5ef6feece8088146fd7dc",
+    "first_name": "Jensen",
+    "last_name": "Horne",
+    "email": "jensenhorne@medicroix.com",
+    "phone": "+1 (816) 515-2072",
+    "created_at": "2019-10-12"
+  },
+  {
+    "user_id": "5da5ef6f4823e38fe71937b5",
+    "first_name": "Dona",
+    "last_name": "Rutledge",
+    "email": "donarutledge@medicroix.com",
+    "phone": "+1 (864) 432-2106",
+    "created_at": "2017-06-29"
+  },
+  {
+    "user_id": "5da5ef6f1654e7d022b872f0",
+    "first_name": "Spence",
+    "last_name": "Perry",
+    "email": "spenceperry@medicroix.com",
+    "phone": "+1 (893) 407-3938",
+    "created_at": "2016-04-5"
+  },
+  {
+    "user_id": "5da5ef6faeff764cb9f0cb50",
+    "first_name": "Marsh",
+    "last_name": "Carter",
+    "email": "marshcarter@medicroix.com",
+    "phone": "+1 (918) 585-2160",
+    "created_at": "2018-03-14"
+  },
+  {
+    "user_id": "5da5ef6fa2223b8449abb97d",
+    "first_name": "Zimmerman",
+    "last_name": "Morris",
+    "email": "zimmermanmorris@medicroix.com",
+    "phone": "+1 (822) 502-2580",
+    "created_at": "2017-02-15"
+  },
+  {
+    "user_id": "5da5ef6f399043d2b259ccf2",
+    "first_name": "Irma",
+    "last_name": "Craft",
+    "email": "irmacraft@medicroix.com",
+    "phone": "+1 (993) 565-3978",
+    "created_at": "2018-07-25"
+  },
+  {
+    "user_id": "5da5ef6f5ea1922d78a39113",
+    "first_name": "Wells",
+    "last_name": "Castro",
+    "email": "wellscastro@medicroix.com",
+    "phone": "+1 (803) 530-2868",
+    "created_at": "2018-09-24"
+  },
+  {
+    "user_id": "5da5ef6f89fd6da3ad99179f",
+    "first_name": "Maritza",
+    "last_name": "Shaffer",
+    "email": "maritzashaffer@medicroix.com",
+    "phone": "+1 (848) 435-2726",
+    "created_at": "2015-09-16"
+  },
+  {
+    "user_id": "5da5ef6f345ec6bdc65f9472",
+    "first_name": "West",
+    "last_name": "Griffith",
+    "email": "westgriffith@medicroix.com",
+    "phone": "+1 (801) 530-2061",
+    "created_at": "2017-02-23"
+  },
+  {
+    "user_id": "5da5ef6f678c55dda622d524",
+    "first_name": "Jeannie",
+    "last_name": "Jordan",
+    "email": "jeanniejordan@medicroix.com",
+    "phone": "+1 (922) 521-3495",
+    "created_at": "2016-06-19"
+  },
+  {
+    "user_id": "5da5ef6f04d24753333a1ce5",
+    "first_name": "Kristina",
+    "last_name": "Roach",
+    "email": "kristinaroach@medicroix.com",
+    "phone": "+1 (886) 513-3164",
+    "created_at": "2018-11-13"
+  }
+]
