@@ -4,9 +4,9 @@ INSTRUCTIONS:
 
 Create a client with the Vue CLI
 Create routing files and 3 components:
-*	Login component: Will capture email and password and redirect to the client dashboard
+*	Login component: Will capture email and password, redirect to the client dashboard
 
-* Client component: Has to include a table with clients and a section where the user is able to add and edit users. Table must include the following fields:
+* Client component: Has to include a table with clients and a section where the user is able to add/edit users. Table must include the following fields:
   - First name
   -	Last name
   -	Email
@@ -23,7 +23,7 @@ Create routing files and 3 components:
 
 All fields should be required.
 
-**FOR ALL COMPONENTS YOU MUST SIMULATE YOU’RE USING POST, PUST AND GET.**
+**FOR ALL COMPONENTS YOU MUST SIMULATE YOU’RE USING POST, PUT AND GET.**
 
 **You will find a file on this repository that includes the JSON data that fill simulate the GET request to fill up**
 
